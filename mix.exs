@@ -5,7 +5,7 @@ defmodule SweetXml.Mixfile do
     [
       app: :sweet_xml,
       version: "0.1.0",
-      elixir: "~> 0.14.2",
+      elixir: "~> 0.14.2 or ~> 0.15.0",
       deps: deps,
       package: [
         contributors: ["Frank Liu"],
